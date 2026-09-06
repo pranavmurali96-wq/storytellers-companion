@@ -1,10 +1,11 @@
 // Storyteller's Companion service worker — offline-first, no network at runtime.
-const CACHE = 'stc-sfv7ql';
+const CACHE = 'stc-1ltsat8';
 const PRECACHE = [
   "./",
   "./apple-touch-icon.png",
-  "./assets/index-BQVUwKE8.css",
-  "./assets/index-ChIuION4.js",
+  "./assets/hero-DWsh3r1K.webp",
+  "./assets/index-BjyLcFJl.css",
+  "./assets/index-vZ4RhNPi.js",
   "./favicon-32.png",
   "./icon-192.png",
   "./icon-512.png",
