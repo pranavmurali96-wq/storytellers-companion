@@ -1,12 +1,23 @@
 // Storyteller's Companion service worker — offline-first, no network at runtime.
-const CACHE = 'stc-1ltsat8';
+const CACHE = 'stc-cets1o';
 const PRECACHE = [
   "./",
   "./apple-touch-icon.png",
+  "./assets/death-day-DLxKfIEO.webp",
+  "./assets/death-night-DnoEO8uB.webp",
   "./assets/hero-DWsh3r1K.webp",
-  "./assets/index-BjyLcFJl.css",
-  "./assets/index-vZ4RhNPi.js",
+  "./assets/index-UvSsN8AV.js",
+  "./assets/index-WVK9nuA7.css",
+  "./assets/playfair-display-700-latin-CuDiGg7c.woff2",
+  "./assets/poster-frame-DZns2iko.webp",
+  "./assets/square-day-BpwbzgNT.webp",
+  "./assets/square-night-BeFJ0xKY.webp",
+  "./assets/vellum-4D-bU_gT.webp",
+  "./assets/win-evil-zD8CnHqU.webp",
+  "./assets/win-good-CA1gaj1J.webp",
   "./favicon-32.png",
+  "./fonts/OFL.txt",
+  "./fonts/playfair-display-700-latin.woff2",
   "./icon-192.png",
   "./icon-512.png",
   "./index.html",
