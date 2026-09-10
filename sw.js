@@ -1,5 +1,5 @@
 // Storyteller's Companion service worker — the two-file build.
-const CACHE = 'stc-pages-1q7d6xg';
+const CACHE = 'stc-pages-15ow5jb';
 const PRECACHE = ["./", "./index.html"];
 
 self.addEventListener('install', (e) => {
